@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @halokaiwei
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React Native, C# in Unity Game Engine
-- 💞️ I’m looking to collaborate on [any fresh things I am willing to try]
-- 📫 You may reach me on 60-186620497 or kaiwei0303@gmail.com
+- 👀 I’m a freshgraduated Software Engineering Student from UTAR, Malaysia
+- 🌱 I’m interested in web development
+- 💞️ I’m looking to collaborate on PHP/backend development
+- 📫 You may visit my portal at https://halokaiwei.github.io/portal/ 
